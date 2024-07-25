@@ -40,9 +40,6 @@ Power BI Desktop
 ![App Screenshot](Dashboard_screenshot_1.png)
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Support
