@@ -41,3 +41,10 @@ Name: Mohammed Salman Khan
 Email: mohammedsalman65257@gmail.com
 LinkedIn: https://www.linkedin.com/in/mohammed-salman-khan-529177193/
 
+
+Feel free to contribute by opening issues or submitting pull requests. Your contributions are highly appreciated!
+
+
+Make sure to replace `path/to/your/screenshot.png` with the actual path to your screenshot in the repository.
+
+
