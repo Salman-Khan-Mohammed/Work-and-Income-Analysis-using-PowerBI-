@@ -48,5 +48,7 @@ Power BI Desktop
 For any questions or feedback, please contact:
 
 Name: Mohammed Salman Khan
+
 Email: mohammedsalman65257@gmail.com 
+
 LinkedIn: https://www.linkedin.com/in/mohammed-salman-khan-529177193/
