@@ -40,8 +40,16 @@ Power BI Desktop
 ![App Screenshot](Dashboard_screenshot_1.png)
 
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Support
 
-For support, email :-  mohammedsalman65257@gmail.com 
+
+For any questions or feedback, please contact:
+
+Name: Mohammed Salman Khan
+Email: mohammedsalman65257@gmail.com 
+LinkedIn: https://www.linkedin.com/in/mohammed-salman-khan-529177193/
