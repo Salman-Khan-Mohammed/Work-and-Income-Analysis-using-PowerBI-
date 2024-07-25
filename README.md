@@ -26,27 +26,16 @@ The Power BI dashboard includes the following visualizations:
    ```sh
    git clone https://github.com/yourusername/Work-and-Income-Analysis-Power-BI.git
    
-2. Open in Power BI: Open the .pbix file in Power BI Desktop to explore and interact with the dashboard.
-
-Requirements : - 
-  Power BI Desktop
-  
-Screenshots
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-For any questions or feedback, please contact:
-
-Name: Mohammed Salman Khan
-Email: mohammedsalman65257@gmail.com
-LinkedIn: https://www.linkedin.com/in/mohammed-salman-khan-529177193/
+2. **Open in Power BI**: Open the .pbix file in Power BI Desktop to explore and interact with the dashboard.
 
 
-Feel free to contribute by opening issues or submitting pull requests. Your contributions are highly appreciated!
+## Requirements
+
+Power BI Desktop
 
 
-Make sure to replace `path/to/your/screenshot.png` with the actual path to your screenshot in the repository.
 
+## Screenshots
+
+![App Screenshot](Dashboard_screenshot_1.png)
 
