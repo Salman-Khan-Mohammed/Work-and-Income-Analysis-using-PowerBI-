@@ -35,7 +35,7 @@ Power BI Desktop
 
 
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](Dashboard_screenshot_1.png)
 
